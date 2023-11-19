@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "comparamat api",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "Auriol",
   "license": "MIT",
   "dependencies": {
